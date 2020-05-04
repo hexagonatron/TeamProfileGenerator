@@ -1,3 +1,2 @@
-node_module
-*.tmp
+output/
 node_modules
